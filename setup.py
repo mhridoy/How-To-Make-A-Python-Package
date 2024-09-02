@@ -2,7 +2,7 @@ from setuptools import setup, find_packages
 
 setup(
     name="testHelloWorldpkg",
-    version="0.0.5",
+    version="0.0.6",
     author="Moshiur",
     author_email="",
     description="A Hello world pkg",
