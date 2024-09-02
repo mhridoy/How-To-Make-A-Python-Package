@@ -2,7 +2,7 @@
 
 [![Python Version](https://img.shields.io/badge/python-3.9%2B-blue.svg)](https://www.python.org/downloads/)
 [![License](https://img.shields.io/badge/license-MIT-green.svg)](https://opensource.org/licenses/MIT)
-[![Version](https://img.shields.io/badge/version-0.0.5-orange.svg)](https://pypi.org/project/testHelloWorldpkg/)
+[![Version](https://img.shields.io/badge/version-0.0.6-orange.svg)](https://pypi.org/project/testHelloWorldpkg/)
 [![PyPI](https://img.shields.io/badge/PyPI-testHelloWorldpkg-brightgreen.svg)](https://pypi.org/project/testHelloWorldpkg/)
 
 > 🚀 Blast off into a world where "Hello" is just the beginning! This isn't your grandma's Hello World package – it's a turbocharged greeting machine with a dash of pizzazz! 🎉
