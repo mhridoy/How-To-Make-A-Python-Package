@@ -1,0 +1,12 @@
+ 1320  import testHelloWorldpkg
+ 1321  python -c " import testHelloWorldpkg"
+ 1322  python -c "import testHelloWorldpkg"
+ 1323  python -c "from  testHelloWorldpkg.app import main\nmain()"
+ 1324  python -c "from  testHelloWorldpkg.app import main\nmain()"
+ 1325  rm -rf dist/ build/ testHelloWorldpkg.egg-info/\n
+ 1326  python3 setup.py sdist bdist_wheel\npip install -e .\n
+ 1327  twine upload dist/*\n
+ 1328  rm -rf dist/ build/ testHelloWorldpkg.egg-info/\n
+ 1329  python3 setup.py sdist bdist_wheel\npip install -e .\n
+ 1330  twine upload dist/*\n
+ 1331  python -c "from  testHelloWorldpkg.app import main\nmain()"
